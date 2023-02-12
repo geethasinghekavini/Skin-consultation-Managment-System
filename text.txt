@@ -1,0 +1,19 @@
+
+Chadeepa Silva 20000123 772569159 cosmetic 5
+Kaveen Perera 19940523 772545236 medical 3
+Kavini Geethasinghe 20001231 775689258 dermatology 1
+Lithila Gamage 19961231 712548523 paediatric 2
+Sujith Niroshana 19980205 714859654 paediatric 4
+
+Chadeepa Silva 20000518 778525159 cosmetic 5
+Kaveen Perera 19940203 712545123 medical 3
+Kavini Geethasinghe 19961231 772536456 cosmetic 1
+Lithila Gamage 19950415 778945123 medical 2
+Sujith Niroshana 19960414 778945128 dermatology 4
+
+Chadeepa Silva 19960812 778548785 medical 5
+Kaveen Perera 19950518 702585458 dermatology 3
+Kavini Geethasinghe 20001231 775245695 cosmetic 1
+Lithila Gamage 19960422 775869456 medical 2
+Sujith Niroshana 19960214 752589456 cosmetic 4
+
